@@ -51,6 +51,10 @@ C'est un explorateur de fichiers que nous avons créé avec **Tkinter**, un modu
 
 ![Vidéo des favoris](screen/Video1.mp4)
 
+
+Uploading Video1.mp4…
+
+
 ---
 ## 👥 Membres du Groupe
 - **AKADI MADINA**
